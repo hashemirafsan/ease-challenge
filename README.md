@@ -67,3 +67,11 @@ npm run dev:docker
 ```
 
 Postman Collections are added in root directory.
+
+Manager Credentials for Login:
+```json
+{
+    "email": "rafsan@gmail.com",
+    "password": "Pa$$word!"
+}
+```
