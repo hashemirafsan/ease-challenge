@@ -53,3 +53,17 @@ The following routes are available in the API:
 - **DELETE /api/patients/:patientId**: Removes a specific patient.
 
 
+## Start API Server
+
+1. Without Docker
+```bash
+npm run dev
+```
+
+2. With Docker
+```bash
+npm run dev:docker:rebuild
+npm run dev:docker
+```
+
+Postman Collections are added in root directory.
