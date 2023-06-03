@@ -1,0 +1,45 @@
+{
+  "patients": [
+    {
+      "id": "15546f31-b324-4d41-bf77-38a99e88a788",
+      "name": "Garry Rowe",
+      "email": "Helmer201@yahoo.com",
+      "phone": "346-532-2912",
+      "medications": [],
+      "diagnoses": [],
+      "treatments": [],
+      "createdAt": 1685782299544
+    },
+    {
+      "id": "2a6d4bab-0c18-4db3-9bbf-91d9fbd94be6",
+      "name": "Marilyn Schulist",
+      "email": "Helmer20@yahoo.com",
+      "phone": "930-722-0468",
+      "medications": [],
+      "diagnoses": [],
+      "treatments": [],
+      "createdAt": 1685782406973
+    },
+    {
+      "id": "b472cf96-f47b-432d-805f-616f4d63c5d0",
+      "name": "Stacey Nicolas",
+      "email": "Marianne.Crooks71@gmail.com",
+      "phone": "786-773-6666",
+      "medications": [],
+      "diagnoses": [],
+      "treatments": [],
+      "createdAt": 1685787889533
+    },
+    {
+      "id": "28a9ba1c-c3ff-419a-8a09-3cceb3d83dfd",
+      "name": "Homer Satterfield",
+      "email": "Ashly_Lynch@hotmail.com",
+      "phone": "562-835-1036",
+      "medications": [],
+      "diagnoses": [],
+      "treatments": [],
+      "createdAt": 1685787943195
+    }
+  ],
+  "managers": []
+}
